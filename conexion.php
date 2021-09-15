@@ -1,3 +1,3 @@
 <?php
-$con=mysqli_connect('mattprofe.com.ar','7118','7118','7118');
+$con=mysqli_connect('localhost','root','usbw','compras');
 ?>
